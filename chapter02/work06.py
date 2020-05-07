@@ -1,2 +1,2 @@
-colors = ["red","blue","yello","black"]
+colors = ["red","blue","yellow","black"]
 print( colors )
