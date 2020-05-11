@@ -1,5 +1,5 @@
 def multiply( num1, num2 ) :
-    r = num1 + num2
+    r = num1 * num2
     return r
 
 answer1 = multiply(3,4)
