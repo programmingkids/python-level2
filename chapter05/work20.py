@@ -1,10 +1,10 @@
 # 関数の定義は今までと同じです
-def add( a, b ) :
-    total = a + b
-    return total
+def divide( a, b ) :
+    answer = a / b
+    return answer
 
 # 普通に関数呼び出し
-print( add(3,2) )
+print( divide( 10,2 ) )
 
 # キーワード引数で関数呼び出す
-print( add(b=4, a=3) )
+print( divide( b=10, a=2 ) )
