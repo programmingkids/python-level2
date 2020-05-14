@@ -8,7 +8,9 @@ class Triangle :
         area = (self.base * self.height) / 2
         return area
 
-# インスタンス作成して、メソッドを呼び出す
+
+# インスタンス作成
 triangle = Triangle(6,8)
+# メソッド「get_area」を呼び出す
 area = triangle.get_area()
 print( area )
