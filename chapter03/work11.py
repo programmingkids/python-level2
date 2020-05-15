@@ -5,5 +5,3 @@ player = {
     "job"   : "魔法使い"
 }
 
-for value in player.values() :
-    print ( value )

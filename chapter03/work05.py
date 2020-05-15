@@ -4,4 +4,3 @@ user = {
     "age"  : 17
 }
 
-print( user )

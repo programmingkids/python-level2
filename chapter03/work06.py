@@ -6,8 +6,3 @@ kamoku = {
     "社会" : 95
 }
 
-print( kamoku["国語"] )
-print( kamoku["数学"] )
-print( kamoku["英語"] )
-print( kamoku["理科"] )
-print( kamoku["社会"] )

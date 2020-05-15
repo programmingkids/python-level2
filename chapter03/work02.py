@@ -1,9 +1,0 @@
-person = {
-    "name"  : "山田", 
-    "age"   : 17,
-    "hobby" : "テニス"
-}
-
-print( person["name"] )
-print( person["age"] )
-print( person["hobby"] )

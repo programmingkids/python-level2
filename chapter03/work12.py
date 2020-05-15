@@ -5,5 +5,3 @@ player = {
     "job"   : "魔法使い"
 }
 
-for k, v in player.items() :
-    print( k + " ==> " + str(v))

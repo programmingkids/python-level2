@@ -5,5 +5,3 @@ characters = {
     "Daizy" : 15
 }
 
-print( characters["Micky"] )
-print( characters["Donald"] )
