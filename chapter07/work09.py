@@ -1,6 +1,5 @@
 # ここに関数「multiply」を作成します
-def multiply( num1, num2 ) :
-    return num1 * num2
+
 
 
 # これ以降は修正してはいけません

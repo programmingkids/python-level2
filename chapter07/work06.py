@@ -7,5 +7,3 @@ student = {
     "History"  : 97
 }
 
-for key, value in student.items() :
-    print( key + " ==> " + str(value))

@@ -12,5 +12,3 @@ class Triangle :
 # インスタンス作成
 triangle = Triangle(6,8)
 # メソッド「get_area」を呼び出す
-area = triangle.get_area()
-print( area )
