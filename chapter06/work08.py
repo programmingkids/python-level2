@@ -1,15 +1,6 @@
 # ここにクラスを定義します
-class Character :
-    def __init__(self, name, hp, weapon) :
-        self.name = name
-        self.hp = hp
-        self.weapon = weapon
-    
-    def show_hp(self) :
-        print( self.name + "のHPは" + str(self.hp) )
-        
-    def show_weapon(self) :
-        print( self.name + "の武器は" + self.weapon)
+
+
 
 
 # これ以降は修正してはいけません

@@ -10,14 +10,3 @@ class Person:
     def show_age(self):
         print("私は" + str(self.age) + "才です")
 
-# 1個目のインスタンス作成
-person1 = Person("佐藤", 16)
-person1.show_name()
-person1.show_age()
-
-print("=====")
-
-# 2個目のインスタンス作成
-person2 = Person("田中", 14)
-person2.show_name()
-person2.show_age()

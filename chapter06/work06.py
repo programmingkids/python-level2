@@ -5,8 +5,3 @@ class Triangle :
         return  area
 
 # インスタンス作成、データ属性に値を代入、メソッド呼び出しを行う
-t1 = Triangle()
-t1.width = 5
-t1.height = 6
-answer = t1.get_area()
-print( answer )
